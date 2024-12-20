@@ -1,4 +1,4 @@
-![Auto Assign](https://github.com/Siepomaga83/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
+[![Proof HTML](https://github.com/Siepomaga83/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/Siepomaga83/demo-repository/actions/workflows/proof-html.yml)
 
 ![Proof HTML](https://github.com/Siepomaga83/demo-repository/actions/workflows/proof-html.yml/badge.svg)
 
